@@ -1,6 +1,6 @@
 # Changelog
 
-## 20.9.0 (2025-02-23)
+## 20.9.0 (2025-02-24)
 
 * [bitnami/redis] Support retrieving Redis ACL user passwords from Kubernetes Secrets ([#32137](https://github.com/bitnami/charts/pull/32137))
 
